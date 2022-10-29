@@ -15,7 +15,7 @@ export function Post4(){
                 <div className="info-post">
                     <img className='img-header-post' src={joaoPerfil}/>
 
-                    <p>ingrid.lis2</p>
+                    <p>joaovitor_conrado</p>
                 </div>
 
                 <FiMoreHorizontal/>
